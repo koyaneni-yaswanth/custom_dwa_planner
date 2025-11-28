@@ -1,6 +1,6 @@
 
 ````markdown
- Custom DWA Local Planner – ROS 2 Humble (TurtleBot3)
+ Custom Dynamic Window Approach (DWA) local planner for TurtleBot3 built from scratch using ROS2 Humble & Gazebo
 
 Author: Koyaneni Yaswanth
 **Assignment: Robotics Deployment Intern – 10xConstruction
